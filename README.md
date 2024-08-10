@@ -1,4 +1,6 @@
-      
+ <h>     <b><a href='https://gitlab.com/Jot4349'>🇲 🇪 🇹 🇦 🇩 🇦 🇹 🇦  🇦 🇩 🇩 🇪 🇩  🇨 🇷 🇪 🇩 🇮 🇹 </a></b>
+
+ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: <b><a href='https://telegram.me/NordBotz'>🇨 🇱 🇮 🇨 🇰  🇭 🇪 🇷 🇪 </a><b></h1>
 <h><b solid>𝙃𝙚𝙧𝙤𝙠𝙪 𝘿𝙚𝙥𝙡𝙤𝙮
  
   𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈: @𝙉𝙤𝙧𝙙𝘽𝙤𝙩𝙯</b></h1>
