@@ -26,14 +26,14 @@ try:
 except:
     pass
 
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7919432581:AAEnomP-oxHd2Q0wVRPJiGnGL6UJXEIUZAw')
 if len(BOT_TOKEN) == 0:
     log_error("BOT_TOKEN variable is missing! Exiting now")
     exit(1)
 
 bot_id = BOT_TOKEN.split(':', 1)[0]
 
-DATABASE_URL = environ.get('DATABASE_URL', '')
+DATABASE_URL = environ.get('DATABASE_URL', 'mongodb+srv://sdswap09:sdswap09@cluster0.fvpny.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
 if len(DATABASE_URL) == 0:
     DATABASE_URL = None
 
@@ -50,11 +50,11 @@ if DATABASE_URL is not None:
         environ['UPSTREAM_BRANCH'] = config_dict['UPSTREAM_BRANCH']
     conn.close()
 
-UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
+UPSTREAM_REPO = environ.get('UPSTREAM_REPO', 'https://gitlab.com/mindaheroku/wzmlxadvancepbx1')
 if len(UPSTREAM_REPO) == 0:
     UPSTREAM_REPO = None
 
-UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
+UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', 'hk_nordbotz')
 if len(UPSTREAM_BRANCH) == 0:
     UPSTREAM_BRANCH = 'master'
 
