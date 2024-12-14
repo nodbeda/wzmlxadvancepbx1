@@ -46,5 +46,5 @@ tgcrypto
 uv
 uvloop
 xattr
-yt-dlp==2023.10.7
+yt-dlp==2024.12.6
 pytz
