@@ -48,3 +48,5 @@ uvloop
 xattr
 yt-dlp==2024.12.6
 pytz
+setuptools>=61
+setuptools-scm<8
