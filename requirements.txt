@@ -11,7 +11,6 @@ cinemagoer
 cloudscraper
 cryptography
 dnspython
-dotenv
 electrogram
 feedparser
 flask
@@ -48,7 +47,7 @@ uv
 uvloop
 xattr
 yt-dlp==2024.12.6
-pytz 
-pymediainfo==5.0.3
-setuptools>=61
-setuptools-scm<8
+pytz
+pymediainfo==6.0.1
+setuptools==59.6.0
+setuptools_scm==7.1.0
